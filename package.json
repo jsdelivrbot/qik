@@ -1,0 +1,21 @@
+{
+  "name": "qik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book",
+    "appointments",
+    "online"
+  ],
+  "author": "Bharath",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
